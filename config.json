@@ -1,0 +1,36 @@
+{
+    "token":"",
+    "guildid":"1093519952511762543",
+    "server": {
+        "ip":"",
+        "port":"30120",
+        "autostatus":true
+    },
+    "roles": {
+        "wlchecker":"",
+        "administracja":"1093519952604057659",
+        "obywatel":"1093519952813772830",
+        "skrzynkiping":"1094740784303054868",
+        "restarty":"1094740873805299803",
+        "eventy":"1094740902293033030",
+        "changelog":"1094740845695090760",
+        "ogloszenia":"1082812102684717143"
+    },
+    "channels":{
+        "propozycje":"1093519957456867510",
+        "changelog":"1082812103326441503",
+        "weryfikacja":"",
+        "powitania":"1093519952813772839",
+        "nowy":"1094705526488715414",
+        "osobylicznik":"1093519953224810560",
+        "listagraczy":"1093519953224810559",
+        "role":"1093519952813772830",
+        "poczekalniawl":"",
+        "ticketotworz":"1093519953497444368",
+        "ticketskategoria":"1093519953497444367",
+        "topgodzin": "1086372037024567306",
+        "topkills": "1086372121090986084",
+        "topgodzinhidden": "1085707489225490442",
+        "topkillshidden": "1085707540211437680"
+    }
+}
